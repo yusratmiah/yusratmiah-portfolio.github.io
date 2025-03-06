@@ -72,6 +72,26 @@ input, select, textarea {
 	appearance: none;
 }
 
+.skills {
+	margin-top: 10px;
+  }
+  
+  .skill-tag {
+	display: inline-block;
+	background-color: #4CAF50; /* Green background */
+	color: white;
+	font-size: 12px;
+	padding: 3px 6px;
+	margin: 5px;
+	border-radius: 10px;
+	text-transform: capitalize;
+  }
+  
+  .skill-tag:hover {
+	background-color: #45a049; /* Darker green on hover */
+  }
+  
+
 /* Basic */
 
 	html {
