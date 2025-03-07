@@ -78,7 +78,7 @@ input, select, textarea {
   
   .skill-tag {
 	display: inline-block;
-	background-color: #4c72af; /* Green background */
+	background-color: green; /* Green background */
 	color: white;
 	font-size: 12px;
 	padding: 3px 6px;
@@ -88,7 +88,7 @@ input, select, textarea {
   }
   
   .skill-tag:hover {
-	background-color: #45a049; /* Darker green on hover */
+	background-color: green; /* Darker green on hover */
   }
   
 
